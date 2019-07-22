@@ -1,0 +1,2 @@
+# weddingInvitation
+基于mpvue开发的婚礼邀请函微信小程序
