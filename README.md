@@ -34,20 +34,6 @@
 4. 祝福
 5. 留言
 
----
-##### 体验码如下：
-
-![体验码](https://666f-forguo-0979a1-1251886253.tcb.qcloud.la/static/imgs/wedding.png)
-
----
-
-##  github地址
-
-github：https://github.com/forguos/wedding
-
-个人博客：https://blog.csdn.net/WEIGUO19951107
-
-个人站点：https://www.forguo.com
 
 ---
 
